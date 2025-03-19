@@ -1,0 +1,46 @@
+.socialmediaicons{
+    color: white;
+    height: 0.58em;
+  }
+  .flit:hover{  
+    color: gold;
+    cursor: pointer;
+    margin-top: -0.2em;
+  }
+  .headerribbontext{
+    font-family: "Poppins", Sans-serif;
+      font-size: 0.8125em;
+      font-weight: 300;
+  }
+  .vercenter {
+    display: inline-flex; /* Use flex container */
+    align-items: center; /* Center items vertically */
+  }
+  .listcss{
+    list-style:none; display:inline-flex;padding:1px;margin: -1px;
+  }
+  .listcss li{
+    display:inline-flex;
+  }
+  .listrightcss{
+    padding-top: 0.3em;
+  }
+  .listrightcss li{
+    padding-right:1em;
+  }
+  
+  /* HorizontalLine.css */
+  .decorative-line {
+    display: flex;
+    align-items: center;
+    padding-top: 0.3em;
+    font-size: 1.5em;
+  }
+  
+  .line {
+    flex-grow: 1;
+    height: 3px;
+    background-color: #fff;
+    padding: 0 10.2px;
+    margin: 0.2em 0.38em 0 0.37em;
+  }
