@@ -11,8 +11,8 @@ export default function Logo() {
                 />
             </div>
             <div className="flex flex-col w-auto">
-                <div className="text-sm text-green font-semibold text-center underline">Test A. Name Doctor's{/*Vaidyar M. Vishnu Patteri's*/}</div>
-                <div className="text-xl font-bold font-bauhaus text-red-500 -mt-2">HIGHERARC{/*SANJEEVANI*/} GROUP</div>
+                <div className="text-sm text-green font-semibold text-center underline">Vaidyar M. Vishnu Patteri's</div>
+                <div className="text-xl font-bold font-bauhaus text-red-500 -mt-2">SANJEEVANI GROUP</div>
                 <div className="text-xs text-center -mt-2">ESTD 1979</div>
             </div>
         </div>
