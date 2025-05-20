@@ -31,7 +31,7 @@ export default function Header() {
                         <Navbarmenu />
                     </Router>
                     <div className="flex items-center space-x-4 mt-4 lg:mt-0 hidden md:flex">
-                        <button className='bg-green-700 text-white rounded py-2 px-4 transition-colors duration-300 hover:bg-yellow-400'>
+                        <button className='bg-green-700 font-medium text-white rounded py-2 px-4 transition-colors duration-300 hover:bg-yellow-400'>
                             Book Now
                         </button>
                         <div className='flex items-center space-x-2'>
